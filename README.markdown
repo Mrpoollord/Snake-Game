@@ -51,4 +51,4 @@ Contributions are welcome! To contribute:
 This project is licensed under the MIT License - see the [LICENSE]((https://github.com/Mrpoollord/Snake-Game/blob/main/LICENSE)) file for details.
 
 ## Contact
-Have questions or suggestions? Reach me at [github.com/your-username](https://github.com/your-username).
+Have questions or suggestions? Reach me at [github.com/Mrpoollord](https://github.com/Mrpoollord).
